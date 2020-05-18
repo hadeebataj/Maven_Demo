@@ -1,18 +1,19 @@
 package com_DemoActiTime_Tests;
 
 import java.io.File;
+
 import java.io.FileInputStream;
 import java.util.Properties;
 
-import javax.activation.DataHandler;
+//import javax.activation.DataHandler;
 import javax.mail.Session;
 import javax.mail.Transport;
 import javax.mail.internet.InternetAddress;
-import javax.mail.internet.MimeBodyPart;
+//import javax.mail.internet.MimeBodyPart;
 import javax.mail.internet.MimeMessage;
 import javax.mail.internet.MimeMessage.RecipientType;
-import javax.mail.internet.MimeMultipart;
-import javax.sql.DataSource;
+//import javax.mail.internet.MimeMultipart;
+//import javax.sql.DataSource;
 
 import org.testng.annotations.Test;
 
